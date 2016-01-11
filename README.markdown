@@ -4,6 +4,9 @@ This project is an example of basic drag & drop and swipe-to-dismiss with `Recyc
 
 [Drag and swipe with RecyclerView](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)
 
+![](https://github.com/longtaoge/Android-ItemTouchHelper-Demo/blob/master/itemTouchHelper.gif)
+
+
 The classes in [co.paulburke.android.itemtouchhelperdemo.helper](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo/tree/master/app/src/main/java/co/paulburke/android/itemtouchhelperdemo/helper) can easily be used in other projects.
 
 Download the apk from [releases](https://github.com/ipaulpro/Android-ItemTouchHelper-Demo/releases).
